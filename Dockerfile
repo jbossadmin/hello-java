@@ -11,4 +11,6 @@ RUN mkdir /usr/local/java && \
 
 # Setting up environment variables for JAVA
 ENV JAVA_HOME=/usr/local/java/jdk1.8.0_111
-nagarjun
+
+
+
