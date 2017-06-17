@@ -13,4 +13,7 @@ RUN mkdir /usr/local/java && \
 ENV JAVA_HOME=/usr/local/java/jdk1.8.0_111
 
 
+FROM Ubuntu17
+
+
 
